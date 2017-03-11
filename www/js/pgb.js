@@ -20,3 +20,13 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
+
+function dataInfo() {
+
+	info2 =  'Hi, I am your smartphone :-)' + '\n' +
+			'=====' + '\n' +
+			'Mam na imie Mateusz ' + '\n' +; 
+
+	navigator.notification.alert(info2);
+	
+}
