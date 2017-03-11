@@ -23,7 +23,7 @@ function deviceInfo() {
 
 function deviceInfoa() {
 
-	infoa = 'Mam na imie Mateusz ' + '\n' +; 
+	infoa = 'Mam na imie Mateusz '; 
 
 	navigator.notification.alert(infoa);
 	
