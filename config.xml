@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "myfirstapp"
+		id          = "MDAPP"
         version     = "1.0.0" >
 
     <name>MD app</name>
     <description>Mateusz Dudlak app</description>
-    <author email="mateusz.dudlak.com">
-		John Brown
+    <author email="mateusz.dudlak@gmail.com">
+		Mateusz Dudlak
 	</author>
 	<platform name="android" />
 	
