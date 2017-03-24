@@ -21,7 +21,7 @@ function deviceInfo() {
 	
 }
 
-function deviceInfo() {
+function deviceInfoA() {
 
 	infoa = 'Mam na imie Mateusz '; 
 
